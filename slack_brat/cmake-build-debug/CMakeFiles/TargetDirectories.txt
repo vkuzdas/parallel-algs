@@ -1,0 +1,3 @@
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/slack_brat/cmake-build-debug/CMakeFiles/slack_brat.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/slack_brat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/slack_brat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Ofast -std=c++17 -march=native -g CMakeFiles/HeatDiffusion.dir/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/src/HeatDiffusion.cpp.o -o HeatDiffusion  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so 

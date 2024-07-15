@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="heatDiffusion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeatDiffusion">
+				<Option output="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/HeatDiffusion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeatDiffusion"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeatDiffusion/fast">
+				<Option output="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/HeatDiffusion" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeatDiffusion/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ScatterDemo">
+				<Option output="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/ScatterDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 ScatterDemo"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ScatterDemo/fast">
+				<Option output="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/ScatterDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/openmpi/include/openmpi"/>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 ScatterDemo/fast"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j16 -f &quot;/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/src/HeatDiffusion.cpp">
+			<Option target="HeatDiffusion"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/src/ScatterDemo.cpp">
+			<Option target="ScatterDemo"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons/cmake/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

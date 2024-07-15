@@ -1,0 +1,4 @@
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw1_omp_skeletons/cmake-openmp/cmake-build-debug/CMakeFiles/Storage.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw1_omp_skeletons/cmake-openmp/cmake-build-debug/CMakeFiles/InstanceGenerator.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw1_omp_skeletons/cmake-openmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw1_omp_skeletons/cmake-openmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

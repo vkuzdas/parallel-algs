@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HW3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HeatDiffusion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HeatDiffusion-Debug-ce8f534012a6ec8b03ae.json",
+					"name" : "HeatDiffusion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/cmake/cmake-build-debug",
+		"source" : "/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/cmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

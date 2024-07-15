@@ -1,0 +1,1 @@
+mpirun -np 8 cmake/cmake-build-debug/HeatDiffusion src/instances/example.txt src/solutions/my_example.txt

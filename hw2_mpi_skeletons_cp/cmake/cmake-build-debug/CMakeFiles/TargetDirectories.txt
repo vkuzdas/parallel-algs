@@ -1,0 +1,3 @@
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/cmake/cmake-build-debug/CMakeFiles/HeatDiffusion.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/cmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/vojte/Documants/01_FEL/3.sem/PAG/labs/hw2_mpi_skeletons_cp/cmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
